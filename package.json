@@ -1,0 +1,17 @@
+{
+  "name": "take-home-spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nick Crum <ncrum@broadleafcommerce.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "lorem-ipsum": "^2.0.3",
+    "uuid": "^3.3.3"
+  },
+  "scripts": {
+    "start:api": "node ./server/server.js"
+  }
+}
